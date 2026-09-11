@@ -1,4 +1,4 @@
-# perfume_store
+# perfume
 
 A new Flutter project.
 
