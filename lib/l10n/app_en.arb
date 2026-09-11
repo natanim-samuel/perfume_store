@@ -1,0 +1,32 @@
+{
+  "@@locale": "en",
+  "appTitle": "METAPHORE",
+  "home": "Home",
+  "search": "Search",
+  "categories": "Categories",
+  "featured": "Featured",
+  "luxuryPerfumes": "Luxury\nPerfumes",
+  "discover": "Discover the finest fragrances, crafted for those who appreciate the art of scent.",
+  "getStarted": "Get Started",
+  "addToBasket": "Add to basket",
+  "eauDeParfum": "EAU DE PARFUM",
+  "allCategory": "ALL",
+  "femmeCategory": "FEMME",
+  "voyagerCategory": "VOYAGER",
+  "parfumCategory": "PARFUM",
+  "homeCategory": "HOME",
+  "basket": "BASKET",
+  "basketEmpty": "Your basket is empty",
+  "basketEmptySub": "Add a fragrance to get started",
+  "cancelAllOrders": "Cancel All Orders",
+  "cancelAllConfirm": "Are you sure you want to remove all items from your basket?",
+  "checkout": "CHECKOUT",
+  "no": "No",
+  "yes": "Yes",
+  "totalItems": "{count} {count, plural, =1{item} other{items}}",
+  "@totalItems": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  }
+}

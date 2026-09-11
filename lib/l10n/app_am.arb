@@ -1,0 +1,32 @@
+{
+  "@@locale": "am",
+  "appTitle": "ሜታፎር",
+  "home": "መነሻ",
+  "search": "ፈልግ",
+  "categories": "ምድቦች",
+  "featured": "ተመረጡ",
+  "luxuryPerfumes": "የቅንጦት\nሽቶዎች",
+  "discover": "ለሽቶ ጥበብ ለሚያደንቁ ሰዎች የተሰራውን እጅግ ምርጥ ሽቶ ያግኙ።",
+  "getStarted": "ጀምር",
+  "addToBasket": "ወደ ቅርጫት ጨምር",
+  "eauDeParfum": "የሽቶ ዉሃ",
+  "allCategory": "ሁሉም",
+  "femmeCategory": "ሴት",
+  "voyagerCategory": "ተጓዥ",
+  "parfumCategory": "ሽት",
+  "homeCategory": "ቤት",
+  "basket": "ቅርጫት",
+  "basketEmpty": "ቅርጫትዎ ባዶ ነው",
+  "basketEmptySub": "ለመጀመር ሽቶ ይጨምሩ",
+  "cancelAllOrders": "ሁሉንም ትዕዛዞች ሰርዝ",
+  "cancelAllConfirm": "ሁሉንም ዕቃዎች ከቅርጫትዎ ማስወገድ ይፈልጋሉ?",
+  "checkout": "ክፍያ",
+  "no": "አይ",
+  "yes": "አዎ",
+  "totalItems": "{count} ዕቃ",
+  "@totalItems": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  }
+}
