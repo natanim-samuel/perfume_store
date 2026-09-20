@@ -1,4 +1,4 @@
-# 🌸 Perfume Store
+# Perfume Store
 
 A Flutter application designed to provide a digital shopping experience for perfume products.
 
